@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **muhammedisaerkan@gmail.com**
 
-- 📄 Know about my experiences [https://dijital.link/isa-erkan](https://dijital.link/isa-erkan)
+- 📄 Know about my experiences [https://linktr.ee/jesusbutisa](https://linktr.ee/jesusbutisa)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
