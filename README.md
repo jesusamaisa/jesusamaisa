@@ -1,43 +1,111 @@
-<h1 align="center">Hi 👋, I'm İsa Erkan</h1>
-<h3 align="center">A passionate artificial intelligence engineer from Turkey</h3>
-
-![](https://komarev.com/ghpvc/?username=jesusamaisa)
-
-
-- 🔭 I’m currently working on **Diagnosticode**
-
-- 🌱 I’m currently learning **R and ai courses**
-
-- 🤝 I’m looking for help with **image processing and machine learning**
-
-- 📝 I regularly write articles on [https://medium.com/@jesusbutisa/yapay-zeka-ve-teknoloji-temellerden-uygulamaya-d8f9ca536b9b](https://medium.com/@jesusbutisa/yapay-zeka-ve-teknoloji-temellerden-uygulamaya-d8f9ca536b9b)
-
-- 💬 Ask me about **anything ;)**
-
-- 📫 How to reach me **muhammedisaerkan@gmail.com**
-
-- 📄 Know about my experiences [https://linktr.ee/jesusbutisa](https://linktr.ee/jesusbutisa)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isa erkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isa erkan" height="30" width="40" /></a>
-<a href="https://kaggle.com/jesusbutisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jesusbutisa" height="30" width="40" /></a>
-<a href="https://instagram.com/jesusbutisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesusbutisa" height="30" width="40" /></a>
-<a href="https://medium.com/@jesusbutisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jesusbutisa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jesusbutisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jesusbutisa" height="30" width="40" /></a>
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FCEE0A,50:FF003C,100:00F0FF&height=230&section=header&text=%C4%B0SA%20ERKAN&fontSize=72&fontColor=0D0221&fontAlignY=42&desc=%2F%2F%20NETRUNNER%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20TR&descSize=18&descAlignY=66&descColor=0D0221&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/jesusamaisa">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=FCEE0A&center=true&vCenter=true&width=640&lines=%3E+JACKING+IN...;%3E+NEURAL+LINK+ESTABLISHED+%E2%9C%94;%3E+AI+ENGINEER+FROM+TURKEY;%3E+BUILDING+DIAGNOSTICODE_;%3E+WAKE+UP%2C+CHOOM.+WE+GOT+CODE+TO+SHIP." alt="typing" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jesusamaisa&label=NETRUNNERS%20JACKED%20IN&color=FCEE0A&style=for-the-badge&labelColor=0D0221" />
+  <a href="mailto:muhammedisaerkan@gmail.com"><img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D0221" /></a>
+  <img src="https://img.shields.io/badge/HEAT_LEVEL-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-FF003C?style=for-the-badge&labelColor=0D0221" />
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FCEE0A&height=3&section=header" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusamaisa&" alt="jesusamaisa" /></p>
+## `>_ SYS://WHOAMI`
 
+```yaml
+handle:        jesusamaisa
+real_name:     İsa Erkan
+class:         Netrunner // Artificial Intelligence Engineer
+origin:        Turkey 🇹🇷
+
+current_gig:   Diagnosticode
+uploading:     [ "R", "AI courses" ]
+need_backup:   [ "Image Processing", "Machine Learning" ]   # ping me, choom
+ask_me_about:  anything ;)
+```
+
+> ⚡ **`[ ACTIVE GIG ]`** — I’m currently working on **Diagnosticode**
+> 🧠 **`[ CHIP INSTALLING ]`** — learning **R** and **AI courses**
+> 🤝 **`[ CREW WANTED ]`** — looking for help with **image processing & machine learning**
+> 📝 **`[ DATA SHARD ]`** — I regularly write articles on [**Medium**](https://medium.com/@jesusbutisa/yapay-zeka-ve-teknoloji-temellerden-uygulamaya-d8f9ca536b9b)
+> 📄 **`[ DOSSIER ]`** — my experiences → [**linktr.ee/jesusbutisa**](https://linktr.ee/jesusbutisa)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=3&section=header" width="100%"/>
+
+## `>_ CYBERWARE // INSTALLED`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/R-0D0221?style=for-the-badge&logo=r&logoColor=FCEE0A" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/C%23-0D0221?style=for-the-badge&logo=dotnet&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Qt-0D0221?style=for-the-badge&logo=qt&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=00F0FF" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/Photoshop-0D0221?style=for-the-badge&logo=adobephotoshop&logoColor=FF003C" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF003C&height=3&section=header" width="100%"/>
+
+## `>_ NET_STATS // SCANNING...`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jesusamaisa&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FCEE0A&icon_color=00F0FF&text_color=E6E6E6&ring_color=FF003C&custom_title=%2F%2F%20NETRUNNER%20STATS" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusamaisa&layout=compact&hide_border=true&bg_color=0D0221&title_color=FCEE0A&text_color=E6E6E6&custom_title=%2F%2F%20LOADED%20DAEMONS" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jesusamaisa&hide_border=true&background=0D0221&stroke=FCEE0A&ring=FCEE0A&fire=FF003C&currStreakNum=00F0FF&sideNums=FCEE0A&currStreakLabel=FCEE0A&sideLabels=00F0FF&dates=8A8A9A" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesusamaisa&bg_color=0D0221&color=00F0FF&line=FCEE0A&point=FF003C&area=true&area_color=FF003C&hide_border=true&title_color=FCEE0A&custom_title=%2F%2F%20SIGNAL%20ACTIVITY" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FCEE0A&height=3&section=header" width="100%"/>
+
+## `>_ OPEN_COMMS // CONNECT`
+
+<p align="center">
+  <a href="https://linkedin.com/in/isa-erkan"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="https://kaggle.com/jesusbutisa"><img src="https://img.shields.io/badge/Kaggle-0D0221?style=for-the-badge&logo=kaggle&logoColor=00F0FF" /></a>
+  <a href="https://medium.com/@jesusbutisa"><img src="https://img.shields.io/badge/Medium-0D0221?style=for-the-badge&logo=medium&logoColor=FCEE0A" /></a>
+  <a href="https://www.youtube.com/c/jesusbutisa"><img src="https://img.shields.io/badge/YouTube-0D0221?style=for-the-badge&logo=youtube&logoColor=FF003C" /></a>
+  <a href="https://instagram.com/jesusbutisa"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=FF003C" /></a>
+  <a href="mailto:muhammedisaerkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=FCEE0A" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=3&section=header" width="100%"/>
+
+## `>_ ICE_BREAKER.exe // RUNNING`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesusamaisa/jesusamaisa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesusamaisa/jesusamaisa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jesusamaisa/jesusamaisa/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=%2F%2F+CONNECTION+TERMINATED;%2F%2F+SEE+YOU+IN+THE+NET%2C+CHOOM." alt="outro" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF003C,100:FCEE0A&height=120&section=footer" width="100%"/>
